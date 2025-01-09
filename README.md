@@ -1,5 +1,7 @@
 # Formation Github
 
+Ce repo est la à but Educatif Uniquement.
+
 ## Bienvenue dans cette micro formation
 
 vous trouverez ici les liens vers les différentes docs proposé :
